@@ -1,0 +1,21 @@
+ECE 3058
+Thread Scheduling Lab
+
+Name: Christopher Semali
+GT Username: 903614825
+
+Problem 1B
+----------
+1 Core : 67.6 s
+2 Core : 36.2 s
+4 Core : 33.7 s
+
+No, because as the number of cores increases, there processes are able to execute/run in parallel, which generally reduces the overall exection time.
+
+Problem 2B
+----------
+
+285.2s - 200ms 
+298.8s - 400ms
+314.5s - 600ms
+325.4s - 800ms
